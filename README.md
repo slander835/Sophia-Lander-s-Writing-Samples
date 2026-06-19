@@ -1,3 +1,5 @@
 # writing-samples
-View here for my academic writing samples (June 2026)
-[Click here to view the PDF Document](Writing Sample(1).pdf)
+View here for Sophia Lander's academic writing samples \
+[Click here to view Writing Sample 1](Writing Sample(1).pdf) \
+[Click here to view Writing Sample 2](Writing Sample(1).pdf) \ 
+Last updated June 2026
